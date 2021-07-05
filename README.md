@@ -1,0 +1,5 @@
+- Hi, I’m Chris 
+- I'm a full-stack web developer
+- I mainly use **Ruby on Rails** and **ReactJS**, but have experience in other languages and frameworks
+- I am fluent in Japanese, having passed the highest ranking (N1) of the Japanese Language Proficiency Test (JLPT)
+- I'm a hobbyist baker 🍞
