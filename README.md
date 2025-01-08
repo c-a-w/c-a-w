@@ -1,4 +1,4 @@
 - Hi, I’m Chris 
 - I'm a full-stack web developer
-- I mainly use **Ruby on Rails** and **ReactJS**
+- I mainly use **Ruby on Rails**
 - I am fluent in Japanese (JLPT N1)
